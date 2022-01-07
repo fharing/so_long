@@ -53,3 +53,9 @@ Run the program by calling the executable together with a map
 * You move the Player by using W (up), A (left), S (down), D (right). 
 * You win if you get in the exit after collecting all the collectables.
 * You can end the game by pressing 'esc' or clicking the 'red cross' at the top left
+
+__PLEASE NOTE THAT ALL PROJECTS AT 42 ARE WRITTEN ACCORDING TO THE NORMINETTE, WHICH PROVIDES US A WAY OF HOW TO WRITE CLEAN/READABLE CODE!__
+
+```LINK
+https://github.com/42School/norminette/blob/921b5e22d991591f385e1920f7e7ee5dcf71f3d5/pdf/en.norm.pdf
+```
